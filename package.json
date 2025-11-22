@@ -1,0 +1,33 @@
+{
+  "name": "aulaaovivo02",
+  "version": "1.0.0",
+  "description": "Exemplo de implementação e tratamento do método HTTP POST.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiker7/AulaAoVivo02.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "http",
+    "post"
+  ],
+  "author": "Caike Silva Tardim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiker7/AulaAoVivo02/issues"
+  },
+  "homepage": "https://github.com/caiker7/AulaAoVivo02#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
